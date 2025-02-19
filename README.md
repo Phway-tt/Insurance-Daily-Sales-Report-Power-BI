@@ -1,4 +1,4 @@
-# Insurance-Daily-Sales-Report_-Power-BI
+# Insurance-Daily-Sales-Report-Power-BI
 ## 1. Overall Sales Performance
 - Total Sales: 1,547M, significantly below the target of 3,130M.
 - Sales Deficit: -1,583M, which is 50.6% below the target.
