@@ -30,3 +30,8 @@
 - Branch-level sales efforts need optimization, with more focus on underperforming locations.
 - Channel inefficiencies should be investigated, and corrective measures should be taken.
 - Sales strategy should be refined to ensure more consistent daily performance.
+## Conclusion & Recommendations
+- Boost New Policy Sales – Since renewal policies dominate (72%), focus on acquiring new customers through targeted marketing strategies.
+- Branch-Specific Strategies – Invest in underperforming branches such as Sittwe, Tachileik, and Myiek to enhance their contribution.
+- Sales Channel Optimization – Address the performance gap in Channels D and E through improved sales techniques or restructuring efforts.
+- Leverage High-Performing Products – Fire and Motor insurance contribute the most revenue; further promotion could enhance sales.
